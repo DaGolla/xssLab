@@ -1,1 +1,1 @@
-alert("GitHub .js import worked!")
+alert("Your current Session ID is: " + document.cookie)
